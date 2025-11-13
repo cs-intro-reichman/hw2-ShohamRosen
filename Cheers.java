@@ -22,9 +22,9 @@ public class Cheers {
                         String the_letter_to_check = "REFHILMNOASX" ; 
 
                         if ((the_letter_to_check.indexOf(the_letter)) != -1) {
-                                 System.out.println("Give me an  " + the_letter + ": " + the_letter + "!"); //prints the letter
+                                 System.out.println("Give me an " + the_letter + ": " + the_letter + "!"); //prints the letter
                         }else{
-                                 System.out.println("Give me a   " + the_letter + ": " + the_letter + "!"); //prints the letter 
+                                 System.out.println("Give me a  " + the_letter + ": " + the_letter + "!"); //prints the letter 
                         }
                 }
 
