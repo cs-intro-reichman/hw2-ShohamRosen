@@ -1,3 +1,9 @@
+/*
+use camel case - non_negative_sum -> nonNegativeSum
+good practice to write comments
+not sure i understanded the logic in the for loop..
+*/
+
 // Computes an approximation of PI.
 public class CalcPi {
 	public static void main(String [] args) { 
@@ -44,3 +50,4 @@ public class CalcPi {
 
 	}
 }
+
