@@ -1,7 +1,6 @@
-//feedback
-
-/*
-Great work boaz!
+/* Feedback
+Nice job!
+  Use camel case - the_word -> theWord
 */
 
 
@@ -41,3 +40,4 @@ public class Cheers {
 }
 
      
+
