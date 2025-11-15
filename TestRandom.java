@@ -2,6 +2,8 @@
 public  class  TestRandom {
 	public static void main(String[]  args) {
 		String num = (args[0]); //the num of runs
+
+		// use camel case - the_time_to_run -> theTimeToRun
 		int the_time_of_run = Integer.parseInt(num) ; //convert the num to int 
 		int less = 0 ; // <0.5
 		int more = 0 ; // >0.5
@@ -40,4 +42,5 @@ public  class  TestRandom {
 
 	}
 	}
+// great catching for different cases 
 
