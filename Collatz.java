@@ -1,3 +1,9 @@
+/*
+Feedback: 
+Great thinking!
+We are writing camelCase (not python)therefore names should be instead of: num_from -> numFrom
+*/
+
 // Demonstrates the Collatz conjecture.
 public class Collatz {
 	public static void main(String args[]) {
@@ -62,6 +68,7 @@ public class Collatz {
 
 
 		
+
 
 
 
