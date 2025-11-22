@@ -1,3 +1,8 @@
+/*
+Feedback: 
+Great namings and code organization :)
+*/
+
 public class TimeCalc {
     public static void main(String[] args) {
         String timeNow = (args[0]); //the input time in the format 00:00
@@ -24,3 +29,4 @@ public class TimeCalc {
         System.out.println(newNewHours + ":" + newNewMin); 
     }
 }
+
